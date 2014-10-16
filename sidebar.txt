@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ahn:home|Door43 (ahn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ahn|d43-ahn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ahn/archive/master.zip|d43-ahn.zip]]
+
+**Recent Changes**
+{{changes>ns = ahn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ahn|Ethnologue data]]
+
